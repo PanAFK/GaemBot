@@ -1,2 +1,2 @@
 # GaemBot
-Novel python bot that can kick/ban, create roles, assign roles, and can do a bunch of other stuff. As of 7/10/20, still a WIP.
+Novel python bot that can kick/ban, create roles, assign roles, and can do a bunch of other stuff. As of 7/10/20, still a WIP. Locally hosted on your computer, so if you want to access a specific function (later to be added; e.g uno, possibly a role playing feature based off of ml), you have to run the code that enables the bot to perform. Might add AWS/Heroku hosting given that I have access to them.
